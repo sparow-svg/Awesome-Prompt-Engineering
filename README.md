@@ -187,6 +187,7 @@
 | **Agenta** | Agenta is an open-source LLM developer platform with the tools for prompt management, evaluation, human feedback, and deployment all in one place.  | [[Github]](https://github.com/agenta-ai/agenta) |
 | **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
 | **TopFreePrompts** | Free library of curated prompts for ChatGPT, Claude, Gemini, and Midjourney, sorted by tool, category, and use case | [[Tool]](https://topfreeprompts.com) |
+| **PromptingStudioAI** | AI prompt generator and optimizer that builds model-specific structured prompts for Midjourney, ChatGPT, Claude, Gemini, and Grok; includes a prompt library and lessons | [[Tool]](https://promptingstudioai.com) |
 
 ## Apis
 💻
